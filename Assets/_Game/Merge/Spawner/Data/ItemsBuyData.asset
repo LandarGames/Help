@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e585ae54e82eda49aa97ca7c646b425, type: 3}
+  m_Name: ItemsBuyData
+  m_EditorClassIdentifier: 
+  _configs:
+  - itemId: 0
+    CountBuy: 5
+    _price: 10
+  - itemId: 1
+    CountBuy: 25
+    _price: 20
+  - itemId: 2
+    CountBuy: 100
+    _price: 40
+  - itemId: 3
+    CountBuy: 200
+    _price: 80
+  - itemId: 4
+    CountBuy: 300
+    _price: 160
+  - itemId: 5
+    CountBuy: 400
+    _price: 320
+  - itemId: 6
+    CountBuy: 500
+    _price: 640
+  - itemId: 7
+    CountBuy: 600
+    _price: 1280
+  - itemId: 8
+    CountBuy: 700
+    _price: 2560
+  - itemId: 9
+    CountBuy: 800
+    _price: 5120
+  - itemId: 10
+    CountBuy: 900
+    _price: 10240
+  - itemId: 11
+    CountBuy: 1000
+    _price: 20480
+  - itemId: 12
+    CountBuy: 1100
+    _price: 40960
+  - itemId: 200000000
+    CountBuy: 2147483647
+    _price: 20000000000000000000
